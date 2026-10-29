@@ -4,7 +4,7 @@ Images and videos shown in the [UStudio Pro](https://marketplace.visualstudio.co
 
 ## The 2-minute tour
 
-https://github.com/user-attachments/assets/be9cd624-c2fa-4592-875f-d2f5850f4ef1
+https://github.com/user-attachments/assets/024ba528-339a-4976-ac1c-c6b6e849904b
 
 Nine features in 2 minutes, recorded in a real Unreal Engine 5.8 project, among them live C++ execution highlights while the game runs in the editor and content assets created by Unreal. Narrated, with English subtitles. The file is also here: [readme/ustudio-tour.mp4](readme/ustudio-tour.mp4).
 
