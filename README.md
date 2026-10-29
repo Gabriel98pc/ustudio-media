@@ -4,15 +4,7 @@ Images and videos shown in the [UStudio Pro](https://marketplace.visualstudio.co
 
 ## The 90-second tour
 
-
-
-
-
 https://github.com/user-attachments/assets/be9cd624-c2fa-4592-875f-d2f5850f4ef1
-
-
-
-
 
 Narrated, with English subtitles. The file is also here: [readme/ustudio-tour.mp4](readme/ustudio-tour.mp4).
 
