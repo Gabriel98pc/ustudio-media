@@ -6,7 +6,11 @@ Images and videos shown in the [UStudio Pro](https://marketplace.visualstudio.co
 
 
 
-https://github.com/user-attachments/assets/41297f14-d458-4bc7-90aa-f93d875abf70
+
+
+https://github.com/user-attachments/assets/be9cd624-c2fa-4592-875f-d2f5850f4ef1
+
+
 
 
 
