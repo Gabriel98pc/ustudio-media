@@ -10,7 +10,7 @@ Nine features in 2 minutes, recorded in a real Unreal Engine 5.8 project, among 
 
 ## User guide
 
-**[UStudio Pro 1.17.0 User Guide and Reference (PDF)](docs/UStudio_Pro_1.17.0_User_Guide.pdf)**: every feature step by step, including the new Blueprint to C++ conversion (experimental), and the release notes since 1.15.2.
+**[UStudio Pro 1.19.0 User Guide and Reference (PDF)](docs/UStudio_Pro_1.19.0_User_Guide.pdf)**: every feature step by step, including the new Node Graphs (C++ and Python classes made with Blueprint-style nodes) and the Blueprint to C++ conversion (experimental), and the release notes since 1.15.2.
 
 **Get UStudio Pro:** [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ustudio.ustudio) · [Open VSX](https://open-vsx.org/extension/ustudio/ustudio) · [Discord](https://discord.gg/4f6VpWpzp5)
 
