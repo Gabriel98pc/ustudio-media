@@ -10,7 +10,13 @@ Nine features in 2 minutes, recorded in a real Unreal Engine 5.8 project, among 
 
 ## User guide
 
-**[UStudio Pro 1.22.0 User Guide and Reference (PDF)](docs/UStudio_Pro_1.22.0_User_Guide.pdf)**: every feature step by step, including Node Graphs (C++ and Python classes made with Blueprint-style nodes that use each other, Class Defaults, subsystems and spawning nodes) and the Blueprint to C++ conversion (experimental), and the release notes since 1.15.2.
+**[UStudio Pro 1.45.0 User Guide and Reference (PDF)](docs/UStudio_Pro_1.45.0_User_Guide.pdf)**: every feature step by step. It covers:
+- Node Graphs: C++ and Python classes made with Blueprint-style nodes, with interfaces, structures, overrides of parent graphs, gameplay tags and the 3D Viewport.
+- HTML UIs: game UI written in HTML, CSS and JavaScript that runs inside Unreal, with templates.
+- The Blueprint to C++ conversion (experimental).
+- The release notes since 1.15.2.
+
+Earlier guides stay in [docs/](docs/).
 
 **Get UStudio Pro:** [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ustudio.ustudio) · [Open VSX](https://open-vsx.org/extension/ustudio/ustudio) · [Discord](https://discord.gg/4f6VpWpzp5)
 
